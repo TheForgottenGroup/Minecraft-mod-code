@@ -1,0 +1,24 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "minecraft:plains"
+  ],
+  "features": [
+    "minecraft:jungle_temple",
+    "minecraft:woodland_mansion",
+    "minecraft:desert_pyramid",
+    "minecraft:pillager_outpost",
+    "minecraft:trial_chambers",
+    "minecraft:ruined_portal",
+    "minecraft:stronghold",
+    "minecraft:mineshaft",
+    "minecraft:monument",
+    "minecraft:fortress",
+    "minecraft:bastion_remnant",
+    "minecraft:shipwreck",
+    "minecraft:ocean_ruin_cold",
+    "minecraft:ocean_ruin_warm",
+    "minecraft:buried_treasure"
+    
+  ]
+}
